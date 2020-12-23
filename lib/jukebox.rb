@@ -56,5 +56,3 @@ def run(songs)
     end
   end
 end
-
-list(songs)
